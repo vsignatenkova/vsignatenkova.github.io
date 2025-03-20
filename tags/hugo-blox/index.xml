@@ -5,12 +5,28 @@
     <link>https://vsignatenkova.github.io/tags/hugo-blox/</link>
       <atom:link href="https://vsignatenkova.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vsignatenkova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://vsignatenkova.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://vsignatenkova.github.io/post/02/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://vsignatenkova.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;-итоги-учебной-недели&#34;&gt;📊 Итоги учебной недели&lt;/h1&gt;
+&lt;p&gt;Эта неделя была насыщенной:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔹 Разбирали теорию вероятностей — кажется, теперь случайность не так уж случайна! 🎲&lt;/li&gt;
+&lt;li&gt;🔹 Изучали Markdown — отличный инструмент для структурирования конспектов.&lt;/li&gt;
+&lt;li&gt;🔹 Решали задачи по математическому анализу, доказывали теоремы и строили графики.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Учеба сложная, но безумно интересная! 📖🔢&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
