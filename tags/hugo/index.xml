@@ -5,7 +5,7 @@
     <link>https://vsignatenkova.github.io/tags/hugo/</link>
       <atom:link href="https://vsignatenkova.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vsignatenkova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo</title>
@@ -13,27 +13,43 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://vsignatenkova.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://vsignatenkova.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://vsignatenkova.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://vsignatenkova.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://vsignatenkova.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://vsignatenkova.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://vsignatenkova.github.io/project/hugo/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://vsignatenkova.github.io/project/hugo/</guid>
+      <description>&lt;p&gt;Создание персонального сайта — важный шаг для научного работника, стремящегося к открытости, профессиональному имиджу и расширению научных связей. Одним из наиболее удобных инструментов для этого является &lt;strong&gt;Hugo Academic&lt;/strong&gt; — современная тема для статического генератора сайтов Hugo, ориентированная на потребности исследователей и преподавателей.&lt;/p&gt;
+&lt;h2 id=&#34;зачем-нужен-сайт-научному-работнику&#34;&gt;Зачем нужен сайт научному работнику?&lt;/h2&gt;
+&lt;p&gt;Личный сайт позволяет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Представить информацию о себе, своем образовании и профессиональном опыте;&lt;/li&gt;
+&lt;li&gt;Опубликовать список научных публикаций с возможностью фильтрации и поиска;&lt;/li&gt;
+&lt;li&gt;Продемонстрировать исследовательские интересы и текущие проекты;&lt;/li&gt;
+&lt;li&gt;Разместить презентации, постеры, видео и иные материалы;&lt;/li&gt;
+&lt;li&gt;Публиковать научные заметки и блоги для широкой аудитории.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Сайт становится не только визитной карточкой, но и цифровым архивом академической деятельности.&lt;/p&gt;
+&lt;h2 id=&#34;почему-hugo-academic&#34;&gt;Почему Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Платформа Hugo Academic предлагает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Адаптивный дизайн и структуру, ориентированную на научные цели;&lt;/li&gt;
+&lt;li&gt;Интеграцию с Google Scholar, ORCID, ResearchGate и другими платформами;&lt;/li&gt;
+&lt;li&gt;Поддержку многоязычности, что важно для международного сотрудничества;&lt;/li&gt;
+&lt;li&gt;Возможность тонкой настройки разделов сайта без необходимости владения языками программирования.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Кроме того, Hugo позволяет размещать сайт на GitHub Pages, Netlify и других бесплатных хостингах, что делает его доступным и удобным в использовании.&lt;/p&gt;
+&lt;h2 id=&#34;что-можно-разместить-на-сайте&#34;&gt;Что можно разместить на сайте?&lt;/h2&gt;
+&lt;p&gt;На сайте могут быть представлены:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Автобиография и краткая биография;&lt;/li&gt;
+&lt;li&gt;Научные статьи, книги, тезисы;&lt;/li&gt;
+&lt;li&gt;Курсы и учебные материалы;&lt;/li&gt;
+&lt;li&gt;Информация о конференциях и выступлениях;&lt;/li&gt;
+&lt;li&gt;Блог с научными размышлениями или методическими советами;&lt;/li&gt;
+&lt;li&gt;Контактная информация и формы обратной связи.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;вывод&#34;&gt;Вывод&lt;/h2&gt;
+&lt;p&gt;Сайт на базе Hugo Academic — это современный и профессиональный способ представить свою научную деятельность в сети. Он помогает укреплять научную репутацию, делиться знаниями, находить коллег и быть в центре академического сообщества.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
